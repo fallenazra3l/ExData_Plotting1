@@ -1,27 +1,25 @@
 {
-    "id": "26EA5898",
-    "path": "~/witchcraft/ExData_Plotting1/plot3.R",
-    "project_path": "plot3.R",
+    "id": "DEFB40C8",
+    "path": "~/witchcraft/ExData_Plotting1/plot4.R",
+    "project_path": "plot4.R",
     "type": "r_source",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1674533914766.0,
+    "created": 1674534677407.0,
     "source_on_save": false,
-    "relative_order": 4,
+    "relative_order": 5,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
-        "Source": "Source",
-        "cursorPosition": "23,9",
-        "scrollLine": "0"
+        "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1674534631,
+    "lastKnownWriteTime": 1674534683,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1674534631673,
+    "last_content_update": 1674534683587,
     "read_only": false,
     "read_only_alternatives": []
 }
